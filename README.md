@@ -25,3 +25,5 @@ The analysis aims to provide insights on whether Trevor Lawrence can fulfill the
 - **Sahan Sahgal**
 
 **Note:** This is a hypothetical analysis and should not be considered as definitive predictions of any player’s career trajectory.
+
+[Symposium Poster.pdf](https://github.com/hzocher/MSAS-Project/files/15279158/Symposium.Poster.pdf)
