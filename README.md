@@ -26,4 +26,5 @@ The analysis aims to provide insights on whether Trevor Lawrence can fulfill the
 
 **Note:** This is a hypothetical analysis and should not be considered as definitive predictions of any player’s career trajectory.
 
-[Symposium Poster.pdf](https://github.com/hzocher/MSAS-Project/files/15279158/Symposium.Poster.pdf)
+![1715369098976-a6a7f664-80cc-4855-94a2-c1861ab0db30_1](https://github.com/hzocher/MSAS-Project/assets/157327521/369b7c5c-6e5a-4511-a5fc-aed14c68ad86)
+
