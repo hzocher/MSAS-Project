@@ -15,7 +15,7 @@ To predict and analyze Trevor Lawrence's performance and improvement in the NFL,
 The repository includes scatter plots correlating different metrics to give visual insights into Lawrence’s performance trends.
 
 ## Future Predictions 
-We have developed predictions for 3 seasons into the future through statistical modeling techniques to anticipate his growth and improvement in the league.
+We have developed predictions for 5 seasons into the future through statistical modeling techniques to anticipate his growth and improvement in the league.
 
 ## Conclusion 
 The analysis aims to provide insights on whether Trevor Lawrence can fulfill the high expectations set by his early career achievements and potential.
